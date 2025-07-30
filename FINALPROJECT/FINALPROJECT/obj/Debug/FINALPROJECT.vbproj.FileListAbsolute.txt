@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\bin\Debug\FINALPROJECT.exe.config
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\bin\Debug\FINALPROJECT.exe
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\bin\Debug\FINALPROJECT.pdb
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\bin\Debug\FINALPROJECT.xml
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.About.resources
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.MDIParent1.resources
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.frmLogin.resources
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.Resources.resources
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.StudentAdd.resources
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.exe
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.xml
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.pdb
+C:\Users\Acer\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.exe.config
